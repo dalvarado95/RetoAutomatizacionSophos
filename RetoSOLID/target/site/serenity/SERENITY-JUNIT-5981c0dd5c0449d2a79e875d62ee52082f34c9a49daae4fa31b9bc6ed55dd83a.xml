@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Pruebas Wong y Api" skipped="0" tests="2" time="32.02" timestamp="2020-11-06 06:25:46"><testcase name="Validar Producto Agregado A Carrito Por Nombre"/><testcase name="Registrar Usuario Api"><error message="Could not initialize class org.codehaus.groovy.vmplugin.v7.Java7" type="java.lang.NoClassDefFoundError">Could not initialize class org.codehaus.groovy.vmplugin.v7.Java7</error><system-err>Could not initialize class org.codehaus.groovy.vmplugin.v7.Java7&#13;
+io.restassured.authentication.NoAuthScheme.$getStaticMetaClass(NoAuthScheme.groovy)&#13;
+io.restassured.authentication.NoAuthScheme.&lt;init&gt;(NoAuthScheme.groovy)&#13;
+io.restassured.RestAssured.&lt;clinit&gt;(RestAssured.java:354)&#13;
+com.sophossolutions.tasks.RestService.InvocarApi(RestService.java:20)&#13;
+com.sophossolutions.stepdefinitions.UsuarioDefinicionesDePasos.llamar_metodo_post(UsuarioDefinicionesDePasos.java:51)&#13;
+✽.Que Daniel crea un usuario con los datos(file:///C:/Proyectos%20IntelliJ/Udemy/Curso%20de%20QA%20Automation%20con%20Serenity%20-%20De%20Novato%20a%20Experto/RetoAutoSophos23/RetoSOLID/src/test/resources/features/casos.feature:21)&#13;
+</system-err></testcase></testsuite>
